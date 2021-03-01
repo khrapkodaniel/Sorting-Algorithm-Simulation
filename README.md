@@ -1,2 +1,2 @@
 # Sorting-Algorithm-Simulation
-Demonstrates various sorting algorithms, visually
+Visually demonstrates various sorting algorithms
